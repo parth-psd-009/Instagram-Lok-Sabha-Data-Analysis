@@ -1,0 +1,51 @@
+Id,name,constituency,party,followers,accountHandle,Alignation
+1,Asaduddin Owaisi,"Hyderabad, Telengana",AIMIM,6.8M,asadowaisiofficial,Right
+2,Anubhav Mohanty,"Kendrapara, odhisa",BJD,387K,anubhavmohantyofficial,Centre
+3,Smriti Irani,"Amethi, UP",BJP,1.4M,smritiiraniofficial,Right
+4,Rajnath Singh,"Lucknow, UP",BJP,1.5M,rajnathsinghbjp,Right
+5,Amit Shah,"Gandhinagar, GJ",BJP,13.7M,amitshahofficial,Right
+6,Gajendra Singh Shekhawat,"Jodhpur, Rajasthan",BJP,248K,gssjodhpur,Right
+7,Nitin Gadkari,"Nagpur, MH",BJP,4.5M,gadkari.nitin,Right
+8,Jamyang Tsering Namgyal,Ladakh,BJP,43.6K,jtnladakh.in,Right
+9,Pralhad Joshi,"Dharwad, Karnataka",BJP,521K,pralhadvjoshi,Right
+10,Giriraj Singh,"Begusarai, Bihar",BJP,55.9K,girirajsinghbjp,Right
+11,Om Birla,"Kota, RJ",BJP,709K,om_birla,Right
+12,Manoj Tiwari,North East Delhi,BJP,784K,manojtiwari.mp,Right
+13,Anurag Thakur,"Hamirpur, HP",BJP,798K,official.anuragthakur,Right
+14,Narendra Modi,"Varanasi, UP",BJP,87.3M,narendramodi,Right
+15,Hema Malini,"Mathura, UP",BJP,965K,dreamgirlhemamalini,Right
+16,Kiren Rijiju,Arunachal West,BJP,987K,kiren.rijiju,Right
+17,Tejasvi Surya,Bengaluru South,BJP,997K,tejasvisurya,Right
+18,Ravi Kishan,"Gorakpur, UP",BJP,2.5M,ravikishann,Right
+19,Danish Ali,"Amroha,UP",BSP,42.1K,kunwar_danish_ali,Left
+20,Kanimozhi Karunanidhi,"Thoothukkudi, TN",DMK,158K,kanimozhikarunanidhiofficial,Left
+21,S. Jothi mani,"Karur, Tamil Nadu",INC,33.7K,jothimanisennimalai,Centre
+22,Preneet Kaur,"Patiala, Punjab",INC,41.7K,preneet.kaur,Centre
+23,Rahul Gandhi,"Wayanad, Kerala",INC,5.9M,rahulgandhi,Centre
+24,Gaurav Gogoi,Kaliabor,INC,55.5K,gauravgogoiasm,Centre
+25,Shashi Tharoor,"Thiruvananthapuram, Kerala",INC,675K,shashitharoor,Centre
+26,Hibi Eden ,Ernakulam,INC,70.9K,hibi_eden_,Centre
+27,Rajiv Ranjan ,"Munger,Bihar",JD(U),21.3K,lalansingh_1,Centre
+28,Supriya Sule,"Baramati, MH",NCP,1M,supriyasule,Centre
+29,Harsimrat Kaur Badal,"Bathinda, Punjab",SAD,149K,harsimrat_kaur_badal,Centre
+30,Sukhbir Singh Badal,"Bhatinda, Punjab",SAD,257K,sukhbir_singh_badal,Centre
+31,Eknath Shinde,"kalyan, maharastra",SS,1.7M,mieknathshinde,Right
+32,shrirang Appa Barne,"Maval, Maharastra",SS,31K,shrirangappabarne,Right
+33,Hemant Tukaram Godse,"nasik, Maharastra",SS,33.7K,hemanttukaramgodse,Right
+34,Pratap Raj jadhao,"Buldhana, Maharastra",SS,38.5K,mppratapraojadhao,Right
+35,Bhavna Gawali,"Yavatmal-Washim, Maharastra",SS,39.8K,bhavana_gawali_official,Right
+36,Rajan Baburao Vichare,"Thane, Maharastra",SS,40.9K,mp_rajanvichare,Right
+37,Mahua Moitra,"Krishnanagar, WB",TMC,66.5K,mahuamoitraofficial,Centre
+38,Abhishek Banerjee,"Diamond Harbour, WB",TMC,77.6K,abhishekaitc,Centre
+39,Priyanka gandhi,"Varanasi, UP",INC,1.3M,priyankagandhivadra,Centre
+40,Syed Imtiaz Jaleel,"Aurangabad,maharastra",AIMIM,62.2K,imtiazjaleelofficial,Right
+41,Nussrat Jahan ,"Basirhat, West Bengal",AITC,3.2M,nusratchirps,Centre
+42,Aparupa Poddar,"Arambagh, West Bengal",AITC,3.7K,aparupapoddaronline,Centre
+43,Shatrughan Sinha,"Asansol,West Bengal",AITC,230K,shatrughansinhaofficial,Centre
+44,Prajwal Revanna,"Hassan, Karnatka",JD(S),28.2K,iprajwalrevanna,Left
+45,Veena Devi,"Vaishali, Bihar",LJSP,16.7K,iveenadevi,Left
+46,Chirag Paswan,"Jamui,Bihar",LJSP,511K,ichiragpaswan,Left
+47,Agatha Sangma,"Tura, meghalaya",NPP,20.3K,agathaksangma,Centre
+48,Dimple Yadav,"mainpuri, UP",SP,209K,socialist_dimpleyadav,Left
+49,Shafiqur Rahman Barq,"sambhal,UP",SP,251K,drbarqian,Left
+50,Dhairyasheel Mane,"Hatkanangle, Maharastra",SS,60.4K,dhairyasheel.mane,Right

@@ -1,0 +1,21 @@
+cluster_label	observations
+-1	Noise cluster that contains all the noise points. The size is 831
+0	This cluster contains images of public rallies 
+1	The image contain a certain theme of people wearing pagdi 
+2	Images of ribbon cutting and inaugrations by variety of political leaders
+3	Cluster contains images of gaurav gogoi and they all follow certain theme
+4	"The cluster contains the largest number of images 5077 and the common theme among all images is that they are about normal people interaction, group of people and such."
+5	"Cluster contains images of sport events mainly cricket but there are also badminton, chess, etc."
+6	Cluster contain images related to congress and their female mp's. Also all images seems to follow same language.
+7	Images of sashi tharoor and movie posters
+8	This cluster contains images of posts from other social media's. These are mainly text based posts from X formely twitter.
+9	This cluster contains documents. They are in multiple language and seems to signed by party members.
+10	Images of newspapers
+11	Images for capaign of supriya sule and some other female mp's
+12	All the imges seems to follow a certain theme of orange and red. Also images are generally collage. The main observations are that the images are of bjp parties and some of shiv sena.
+13	Cluster containing posters of Aimim's assauddin owaisi. Same theme of green with the a photo of mr. assasuddin.
+14	Mostly the images are from mp giriraj singh. As they all follow same pattern that describe some economic statistics with the image of mp giriraj singh in bottom right corner.
+15	Some images are of gods and other are of freedom fighters and other important historical figures. The all seems to follow  a pattern too.
+16	"The images in this cluster seems to be clebrating world days. Like world cancer awareness day, international day of pwd, etc. Also they all are from shiv sena"
+17	
+18	

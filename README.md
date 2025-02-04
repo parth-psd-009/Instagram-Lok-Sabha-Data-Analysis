@@ -1,5 +1,5 @@
 # Instagram Data Analysis
-In this project the data of various politician's Instagram pages was collected using Meta's CrowdTangle and later on its analysis was done to find out various nuances from the data, especially during the Lok Sabha Elections 2024.
+In this project the data of various politician's Instagram pages was collected using Meta's CrowdTangle and later on its analysis was done to find out various nuances from the data, especially during the Lok Sabha Elections 2024. (CrowdTangle was discontinued after 14th August 2024 due to which the data collected is only before the same)
 Various elements of this analysis include:
 - Statistical Data Analysis.
 - Density Based Clustering

@@ -1,12 +1,19 @@
 # Instagram Data Analysis
-In this project the data of 50 politician's Instagram pages was collected using Meta's CrowdTangle and later on its analysis was done to find out various nuances from the data, especially during the Lok Sabha Elections of India in 2024.
-(CrowdTangle was discontinued after 14th August 2024 due to which the data collected is only before the same)
-Various elements of this analysis include:
-- Statistical Data Analysis.
-- Density Based Clustering
-- Semantic Image Analysis
-- Image to text Analysis
-- Topic Modelling
+
+This repository contains an in-depth analysis of the Instagram activity of 50 Indian politicians during the 2024 Lok Sabha Elections.  
+All data was collected using Meta's CrowdTangle platform, up until August 14, 2024 (after which CrowdTangle was discontinued).
+
+---
+
+## What’s Inside?
+The analysis explores several aspects of social media engagement and campaign strategy:
+
+- **Statistical Data Analysis:** Examining posting frequency, engagement metrics, and growth trends.
+- **Density-Based Clustering:** Grouping similar posts and activity patterns to highlight campaign surges or lulls.
+- **Semantic Image Analysis:** Studying the content and themes of images shared.
+- **Image-to-Text Analysis:** Converting posted images into text descriptions to extract additional insights.
+- **Topic Modeling:** Identifying major topics and narratives discussed during the election period.
+
 
 ### A sample Instagram Post
 ![image_192_0](https://github.com/user-attachments/assets/2afb173e-6091-4d82-82df-1c2a5fe7f837)
